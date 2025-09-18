@@ -20,15 +20,6 @@
   </url>
   
   <url>
-    <loc>https://www.akinachat.online/box/nav/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.akinachat.online/box/animation/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -56,6 +47,15 @@
   </url>
   
   <url>
+    <loc>https://www.akinachat.online/box/nav/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.akinachat.online/life/movies/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -74,15 +74,6 @@
   </url>
   
   <url>
-    <loc>https://www.akinachat.online/social/fcircle/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.akinachat.online/personal/about/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -92,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://www.akinachat.online/social/link/index.html</loc>
+    <loc>https://www.akinachat.online/personal/bb/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -102,15 +93,6 @@
   
   <url>
     <loc>https://www.akinachat.online/personal/love/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.akinachat.online/personal/bb/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -129,6 +111,24 @@
   
   <url>
     <loc>https://www.akinachat.online/site/time/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.akinachat.online/social/fcircle/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.akinachat.online/social/link/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
